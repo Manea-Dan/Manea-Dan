@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello there
 
+Currently busy being a student.
 <!--
 **Manea-Dan/Manea-Dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
